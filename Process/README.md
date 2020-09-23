@@ -13,3 +13,4 @@ To organize this game, I will need to create bees, hornets and or bears, beekeep
 
 If the player gets too close to the hornets they might follow the player? The only thing to make the bees go after the player would be if the player accidentally shoots a dart at a bee. 
 
+The player must also then have the ability to run around the screen, possibly turning to shoot at hornets or bears, but especially in both the x and y plane.
